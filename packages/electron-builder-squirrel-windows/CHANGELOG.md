@@ -1,5 +1,14 @@
 # electron-builder-squirrel-windows
 
+## 26.0.20
+
+### Patch Changes
+
+- [#9222](https://github.com/electron-userland/electron-builder/pull/9222) [`9997660e`](https://github.com/electron-userland/electron-builder/commit/9997660e20cbdaa4ddb01d1c6078dea91097d6f0) Thanks [@beyondkmp](https://github.com/beyondkmp)! - fix(squirrel-windows): update loadingGif handling to prioritize user-defined option
+
+- Updated dependencies [[`cf0ac45d`](https://github.com/electron-userland/electron-builder/commit/cf0ac45db79e3e3ff1cef3ad931f7272646d1cb1)]:
+  - app-builder-lib@26.0.20
+
 ## 26.0.19
 
 ### Patch Changes

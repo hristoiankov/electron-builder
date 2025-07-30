@@ -1,5 +1,11 @@
 ## 4.3.0
 
+## 6.6.8
+
+### Patch Changes
+
+- [#9225](https://github.com/electron-userland/electron-builder/pull/9225) [`d27ac523`](https://github.com/electron-userland/electron-builder/commit/d27ac523bb1581f274c018952d55162315e7a9b8) Thanks [@yannishuber](https://github.com/yannishuber)! - fix(electron-updater): do not use quotes when installing update with sudo
+
 ## 6.6.7
 
 ### Patch Changes

@@ -1,3 +1,16 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v26.0.19...v) (2025-07-30)
+
+
+### Bug Fixes
+
+* correct broken links in builder.ts and cli.md ([#9218](https://github.com/electron-userland/electron-builder/issues/9218)) ([e375149](https://github.com/electron-userland/electron-builder/commit/e37514998a25ada30c4e776e43134d466cac7221))
+* **electron-updater:** Do not wrap update command when updating with sudo ([#9225](https://github.com/electron-userland/electron-builder/issues/9225)) ([d27ac52](https://github.com/electron-userland/electron-builder/commit/d27ac523bb1581f274c018952d55162315e7a9b8))
+* **squirrel-windows:** update loadingGif handling to prioritize user-defined option ([#9222](https://github.com/electron-userland/electron-builder/issues/9222)) ([9997660](https://github.com/electron-userland/electron-builder/commit/9997660e20cbdaa4ddb01d1c6078dea91097d6f0))
+* **test:** gitlab related failed cases ([#9221](https://github.com/electron-userland/electron-builder/issues/9221)) ([c6d0ff9](https://github.com/electron-userland/electron-builder/commit/c6d0ff9870457d122f9fde6e10315a975bc696aa))
+* **yarn:** check for dependencies in both projectDir and appDir during installation ([#9219](https://github.com/electron-userland/electron-builder/issues/9219)) ([cf0ac45](https://github.com/electron-userland/electron-builder/commit/cf0ac45db79e3e3ff1cef3ad931f7272646d1cb1))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v26.0.18...v) (2025-07-15)
 
 
